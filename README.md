@@ -7,16 +7,16 @@ View which shows OSS licenses in assets.
 
 Usage
 ---
-1. Create OSS license files
+* Create OSS license files
 File name is OSS name, file contents is license text.
 
 ![SS1.png](https://raw.githubusercontent.com/wiki/alzybaad/LicenseView/ss2.png)
 
-2. Save OSS license files in your `assets/license` directory
+* Save OSS license files in your `assets/license` directory
 
 ![SS1.png](https://raw.githubusercontent.com/wiki/alzybaad/LicenseView/ss3.png)
 
-3. Create `LicenseView` and add in your `Activity` or `Fragment` etc.
+* Create `LicenseView` and add in your `Activity` or `Fragment` etc.
 
 XML:
 ```xml
