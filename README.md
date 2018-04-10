@@ -48,7 +48,7 @@ repositories {
 }
 
 dependencies {
-    compile 'team.birdhead.aspectratioimageview:aspectratioimageview:1.0.0'
+    implementation 'team.birdhead.licenseview:licenseview:1.0.0'
 }
 ```
 
